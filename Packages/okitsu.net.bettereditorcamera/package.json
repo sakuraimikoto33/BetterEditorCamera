@@ -1,0 +1,11 @@
+{
+  "name": "okitsu.net.bettereditorcamera",
+  "displayName": "BetterEditorCamera",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "Right click + wheel to zoom in/out and move the camera.",
+  "vrchatVersion": "2022.1.1",
+  "author": {
+    "url": "https://forum.unity.com/threads/new-editor-camera-controls-in-2019-1-are-great-but.664378/#post-4985027"
+  }
+}
