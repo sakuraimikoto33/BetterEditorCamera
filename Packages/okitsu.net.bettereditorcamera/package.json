@@ -1,7 +1,7 @@
 {
   "name": "okitsu.net.bettereditorcamera",
   "displayName": "BetterEditorCamera",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "unity": "2019.4",
   "description": "Right click + wheel to zoom in/out and move the camera.",
   "vrchatVersion": "2022.1.1",
