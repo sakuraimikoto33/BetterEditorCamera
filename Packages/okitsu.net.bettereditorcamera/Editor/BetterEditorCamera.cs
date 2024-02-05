@@ -35,3 +35,7 @@ public class BetterEditorCamera
         }
     }
 }
+
+/* I made the script found in the forum below into a VPM package.
+Please contact me if you have any problems
+https://forum.unity.com/threads/new-editor-camera-controls-in-2019-1-are-great-but.664378/ */
